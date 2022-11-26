@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            
+            // Ï∂îÍ??Î°? ?Ç¨?ö©?ï¥?ïº ?ï† ?ó§?çî?åå?ùº Í≤ΩÎ°ú
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Programming/DataStructures_Review/Priority_Queue"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+
+            // Ïª¥Ìåå?ùº?ü¨ Í≤ΩÎ°ú
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+
+            // intellisense?èÑ gccÎ°? Î∞îÍøà.
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
